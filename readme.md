@@ -20,7 +20,7 @@ python3 FaceBoxes.py
 
 ### References
 I have used the following repo
-** https://github.com/cleardusk/3DDFA_V2 
+* https://github.com/cleardusk/3DDFA_V2 
 
 The main repo:
-** https://github.com/zisianw/FaceBoxes.PyTorch
+* https://github.com/zisianw/FaceBoxes.PyTorch
