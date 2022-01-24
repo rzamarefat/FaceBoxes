@@ -16,3 +16,11 @@ sh ./build_cpu_nms.sh
 ```shell script
 python3 FaceBoxes.py
 ```
+
+
+### References
+I have used the following repo
+** https://github.com/cleardusk/3DDFA_V2 
+
+The main repo:
+** https://github.com/zisianw/FaceBoxes.PyTorch
